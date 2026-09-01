@@ -1,0 +1,17 @@
+*.jar
+*.aar
+*.apk
+*.aab
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+.gradle/
+.kotlin/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+.DS_Store
+local.properties
