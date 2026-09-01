@@ -1,6 +1,6 @@
 # Reproduction of coil crashing with crossfade and vector placeholder painter
 
-A reproduction repository for a crash on [Coil](https://github.com/coil-kt/coil)'s `AsyncImage` placeholder in a complex case.
+A reproduction repository for a crash on [Coil](https://github.com/coil-kt/coil)'s `AsyncImage` placeholder in a complex case ([coil-kt/coil/issues/3561](https://github.com/coil-kt/coil/issues/3561)).
 
 `AsyncImage` crashes under the following conditions:
 
